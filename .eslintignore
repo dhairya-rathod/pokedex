@@ -1,0 +1,12 @@
+# lock file
+package-lock.json
+
+# Editor directories and files
+.vscode/*
+tsconfig.json
+tsconfig.node.json
+vite.config.json
+vite.config.js
+.prettierrc
+postcss.config.cjs
+tailwind.config.cjs
